@@ -1,0 +1,2 @@
+Nano doesn't work on Windows :(
+at least we have cd and ls.
